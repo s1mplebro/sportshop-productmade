@@ -7,4 +7,6 @@ Telegram bot  which can sell sportshop products throw parsing info without human
   <li>basket collecting  all selected products</li>
   <li>Database</li>
   <li>Connected payment system</li>
+  <li>Administrators</li>
+  <li>Fast  performing</li>
 </ul>
